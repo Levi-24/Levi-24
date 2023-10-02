@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">😊 I'm Levente, a hungarian high school student.<br>✨ I love creating fun and useful things even if they are just small projects.<br>💖 My passion is coding and learning more about technology.<br>📚 After finishing high school I plan on going to university.<br>🎯 One of my biggest goal is to become a software engineer in the future.</p>
+<h3 align="left">😊 I'm Levente, a hungarian high school student.<br>✨ I love creating fun and useful things even if they are just small projects.<br>💖 My passion is coding and learning more about technology.<br>📚 After finishing high school I plan on going to university.<br>🎯 One of my biggest goal is to become a software engineer in the future.</h3>
 
 ###
 
