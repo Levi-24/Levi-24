@@ -36,20 +36,10 @@ I'm currently looking for an **internship**, while continuing to sharpen my engi
 ### 📌 Featured Projects
 
 **[BrickHub Launcher](https://github.com/Levi-24/Wpf_BrickHubLauncher)**
-**[Aero Type](https://github.com/Levi-24/Wpf_BrickHubLauncher)**
-One line on what it does and the outcome/impact (e.g. "Built a model predicting X with Y% accuracy using Z dataset").
+Created as a project for my high school finals, it has reached an outstanding 95% grade.
 
-**[Aero Type](https://github.com/Levi-24/repo-link)**
-One line on what it does and the outcome/impact.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Levi-24&show_icons=true&theme=default" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levi-24&layout=compact" height="165"/>
-</p>
+**[Aero Type](https://github.com/Levi-24/Aero_Type)**
+My current personal project, it is a custom text editor for pc.
 
 ---
 
