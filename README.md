@@ -17,10 +17,10 @@
 
 I'm a Software Development student currently building a foundation in Óbuda University, with a growing focus on **data science and machine learning**. My software engineering background means I don't just build models — I know how to ship code that's clean, tested, and production-ready.
 
-I'm currently looking for an ** internship**, while continuing to sharpen my engineering fundamentals.
+I'm currently looking for an **internship**, while continuing to sharpen my engineering fundamentals.
 
-- 🔭 Currently working on: **[project name]**
-- 🌱 Currently learning: **[e.g. scikit-learn, pandas, SQL, TensorFlow]**
+- 🔭 Currently working on: **My own text editor**
+- 🌱 Currently learning: **Python**
 - 🎓 Studying: **BSc - Computer Science Engineering, Óbuda University, expected 2028**
 - 📫 Reach me: **leventemajor36@gmail.com**
 
@@ -35,15 +35,10 @@ I'm currently looking for an ** internship**, while continuing to sharpen my eng
 
 ### 📌 Featured Projects
 
-> Replace these with your 2–4 strongest repos. Pin them on your GitHub profile too (Customize your pins → pick these).
-
-**[Project 1 Name](https://github.com/Levi-24/repo-link)**
+**[BrickHub Launcher]([https://github.com/Levi-24/repo-link](https://github.com/Levi-24/Wpf_BrickHubLauncher))**
 One line on what it does and the outcome/impact (e.g. "Built a model predicting X with Y% accuracy using Z dataset").
 
-**[Project 2 Name](https://github.com/Levi-24/repo-link)**
-One line on what it does and the outcome/impact.
-
-**[Project 3 Name](https://github.com/Levi-24/repo-link)**
+**[Aero Type](https://github.com/Levi-24/repo-link)**
 One line on what it does and the outcome/impact.
 
 ---
