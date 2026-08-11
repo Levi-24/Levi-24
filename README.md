@@ -36,6 +36,7 @@ I'm currently looking for an **internship**, while continuing to sharpen my engi
 ### 📌 Featured Projects
 
 **[BrickHub Launcher](https://github.com/Levi-24/Wpf_BrickHubLauncher)**
+**[Aero Type](https://github.com/Levi-24/Wpf_BrickHubLauncher)**
 One line on what it does and the outcome/impact (e.g. "Built a model predicting X with Y% accuracy using Z dataset").
 
 **[Aero Type](https://github.com/Levi-24/repo-link)**
