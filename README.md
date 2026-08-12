@@ -40,7 +40,6 @@ Created as a project for my high school finals, it has reached an outstanding 95
 
 **[Aero Type](https://github.com/Levi-24/Aero_Type)**
 My current personal project, it is a custom text editor for pc.
-Planned additions include: underlining spelling mistakes, syntax checker, and split screen editing
 
 ---
 
